@@ -1,5 +1,5 @@
 # 💫 About Me:
-An upbeat Software Developer with professional experience in Backend Development. Writing code logic that runs on the server, API Development, Node Automation Scripts, Cron Jobs, Worker threads/Clustering API for performance, AWS, Next Js are some of the areas of my experience. 
+An upbeat Software Developer with professional experience in Full Stack MERN Development. Writing code logic that runs on the server, API Development, Node Automation Scripts, Cron Jobs, Worker threads/Clustering API for performance, AWS, Next Js are some of the areas of my experience. 
 
 
 ## 🌐 Socials:
